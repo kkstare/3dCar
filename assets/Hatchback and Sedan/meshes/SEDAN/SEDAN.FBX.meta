@@ -1,0 +1,501 @@
+{
+  "ver": "2.1.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "06988a62-3893-4967-8d04-c4abcf7c7a7d",
+  "files": [],
+  "subMetas": {
+    "32306": {
+      "importer": "gltf-mesh",
+      "uuid": "06988a62-3893-4967-8d04-c4abcf7c7a7d@32306",
+      "displayName": "",
+      "id": "32306",
+      "name": "RL_tyre.mesh",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4471c": {
+      "importer": "gltf-mesh",
+      "uuid": "06988a62-3893-4967-8d04-c4abcf7c7a7d@4471c",
+      "displayName": "",
+      "id": "4471c",
+      "name": "SEDAN_PAINT.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bf50f": {
+      "importer": "gltf-mesh",
+      "uuid": "06988a62-3893-4967-8d04-c4abcf7c7a7d@bf50f",
+      "displayName": "",
+      "id": "bf50f",
+      "name": "SEDAN.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "613ef": {
+      "importer": "gltf-mesh",
+      "uuid": "06988a62-3893-4967-8d04-c4abcf7c7a7d@613ef",
+      "displayName": "",
+      "id": "613ef",
+      "name": "RL_PARENT.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5fbb5": {
+      "importer": "gltf-mesh",
+      "uuid": "06988a62-3893-4967-8d04-c4abcf7c7a7d@5fbb5",
+      "displayName": "",
+      "id": "5fbb5",
+      "name": "RL_WHEEL.mesh",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8def0": {
+      "importer": "gltf-mesh",
+      "uuid": "06988a62-3893-4967-8d04-c4abcf7c7a7d@8def0",
+      "displayName": "",
+      "id": "8def0",
+      "name": "RL_BRAKES.mesh",
+      "userData": {
+        "gltfIndex": 5
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "76ed0": {
+      "importer": "gltf-mesh",
+      "uuid": "06988a62-3893-4967-8d04-c4abcf7c7a7d@76ed0",
+      "displayName": "",
+      "id": "76ed0",
+      "name": "FL_PARENT.mesh",
+      "userData": {
+        "gltfIndex": 6
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "57bbc": {
+      "importer": "gltf-mesh",
+      "uuid": "06988a62-3893-4967-8d04-c4abcf7c7a7d@57bbc",
+      "displayName": "",
+      "id": "57bbc",
+      "name": "FL_WHEEL.mesh",
+      "userData": {
+        "gltfIndex": 7
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b1d80": {
+      "importer": "gltf-mesh",
+      "uuid": "06988a62-3893-4967-8d04-c4abcf7c7a7d@b1d80",
+      "displayName": "",
+      "id": "b1d80",
+      "name": "FL_tyre.mesh",
+      "userData": {
+        "gltfIndex": 8
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3030e": {
+      "importer": "gltf-mesh",
+      "uuid": "06988a62-3893-4967-8d04-c4abcf7c7a7d@3030e",
+      "displayName": "",
+      "id": "3030e",
+      "name": "FL_BRAKES.mesh",
+      "userData": {
+        "gltfIndex": 9
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e5146": {
+      "importer": "gltf-mesh",
+      "uuid": "06988a62-3893-4967-8d04-c4abcf7c7a7d@e5146",
+      "displayName": "",
+      "id": "e5146",
+      "name": "FR_PARENT.mesh",
+      "userData": {
+        "gltfIndex": 10
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e5907": {
+      "importer": "gltf-mesh",
+      "uuid": "06988a62-3893-4967-8d04-c4abcf7c7a7d@e5907",
+      "displayName": "",
+      "id": "e5907",
+      "name": "FR_WHEEL.mesh",
+      "userData": {
+        "gltfIndex": 11
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "02d38": {
+      "importer": "gltf-mesh",
+      "uuid": "06988a62-3893-4967-8d04-c4abcf7c7a7d@02d38",
+      "displayName": "",
+      "id": "02d38",
+      "name": "FR_tyre.mesh",
+      "userData": {
+        "gltfIndex": 12
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4195c": {
+      "importer": "gltf-mesh",
+      "uuid": "06988a62-3893-4967-8d04-c4abcf7c7a7d@4195c",
+      "displayName": "",
+      "id": "4195c",
+      "name": "FR_BRAKES.mesh",
+      "userData": {
+        "gltfIndex": 13
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "dedf9": {
+      "importer": "gltf-mesh",
+      "uuid": "06988a62-3893-4967-8d04-c4abcf7c7a7d@dedf9",
+      "displayName": "",
+      "id": "dedf9",
+      "name": "RR_PARENT.mesh",
+      "userData": {
+        "gltfIndex": 14
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7d6e0": {
+      "importer": "gltf-mesh",
+      "uuid": "06988a62-3893-4967-8d04-c4abcf7c7a7d@7d6e0",
+      "displayName": "",
+      "id": "7d6e0",
+      "name": "RR_WHEEL.mesh",
+      "userData": {
+        "gltfIndex": 15
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c332a": {
+      "importer": "gltf-mesh",
+      "uuid": "06988a62-3893-4967-8d04-c4abcf7c7a7d@c332a",
+      "displayName": "",
+      "id": "c332a",
+      "name": "RR_tyre.mesh",
+      "userData": {
+        "gltfIndex": 16
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "cab28": {
+      "importer": "gltf-mesh",
+      "uuid": "06988a62-3893-4967-8d04-c4abcf7c7a7d@cab28",
+      "displayName": "",
+      "id": "cab28",
+      "name": "RR_BRAKES.mesh",
+      "userData": {
+        "gltfIndex": 17
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5e225": {
+      "importer": "gltf-mesh",
+      "uuid": "06988a62-3893-4967-8d04-c4abcf7c7a7d@5e225",
+      "displayName": "",
+      "id": "5e225",
+      "name": "WINDOWS.mesh",
+      "userData": {
+        "gltfIndex": 18
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "861dc": {
+      "importer": "gltf-mesh",
+      "uuid": "06988a62-3893-4967-8d04-c4abcf7c7a7d@861dc",
+      "displayName": "",
+      "id": "861dc",
+      "name": "F_LAMPS.mesh",
+      "userData": {
+        "gltfIndex": 19
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "701ff": {
+      "importer": "gltf-mesh",
+      "uuid": "06988a62-3893-4967-8d04-c4abcf7c7a7d@701ff",
+      "displayName": "",
+      "id": "701ff",
+      "name": "R_LAMPS.mesh",
+      "userData": {
+        "gltfIndex": 20
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "27adb": {
+      "importer": "gltf-mesh",
+      "uuid": "06988a62-3893-4967-8d04-c4abcf7c7a7d@27adb",
+      "displayName": "",
+      "id": "27adb",
+      "name": "matte_plastic.mesh",
+      "userData": {
+        "gltfIndex": 21
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ace8f": {
+      "importer": "gltf-embeded-image",
+      "uuid": "06988a62-3893-4967-8d04-c4abcf7c7a7d@ace8f",
+      "displayName": "",
+      "id": "ace8f",
+      "name": "Map #4.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f8008": {
+      "importer": "texture",
+      "uuid": "06988a62-3893-4967-8d04-c4abcf7c7a7d@f8008",
+      "displayName": "",
+      "id": "f8008",
+      "name": "Map #4.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "06988a62-3893-4967-8d04-c4abcf7c7a7d@ace8f"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ef6ed": {
+      "importer": "gltf-material",
+      "uuid": "06988a62-3893-4967-8d04-c4abcf7c7a7d@ef6ed",
+      "displayName": "",
+      "id": "ef6ed",
+      "name": "SEDAN.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bd9ab": {
+      "importer": "gltf-scene",
+      "uuid": "06988a62-3893-4967-8d04-c4abcf7c7a7d@bd9ab",
+      "displayName": "",
+      "id": "bd9ab",
+      "name": "SEDAN.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Map #4",
+        "uri": "06988a62-3893-4967-8d04-c4abcf7c7a7d@ace8f"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "06988a62-3893-4967-8d04-c4abcf7c7a7d@bd9ab",
+    "assetFinder": {
+      "meshes": [
+        "06988a62-3893-4967-8d04-c4abcf7c7a7d@4471c",
+        "06988a62-3893-4967-8d04-c4abcf7c7a7d@bf50f",
+        "06988a62-3893-4967-8d04-c4abcf7c7a7d@613ef",
+        "06988a62-3893-4967-8d04-c4abcf7c7a7d@5fbb5",
+        "06988a62-3893-4967-8d04-c4abcf7c7a7d@32306",
+        "06988a62-3893-4967-8d04-c4abcf7c7a7d@8def0",
+        "06988a62-3893-4967-8d04-c4abcf7c7a7d@76ed0",
+        "06988a62-3893-4967-8d04-c4abcf7c7a7d@57bbc",
+        "06988a62-3893-4967-8d04-c4abcf7c7a7d@b1d80",
+        "06988a62-3893-4967-8d04-c4abcf7c7a7d@3030e",
+        "06988a62-3893-4967-8d04-c4abcf7c7a7d@e5146",
+        "06988a62-3893-4967-8d04-c4abcf7c7a7d@e5907",
+        "06988a62-3893-4967-8d04-c4abcf7c7a7d@02d38",
+        "06988a62-3893-4967-8d04-c4abcf7c7a7d@4195c",
+        "06988a62-3893-4967-8d04-c4abcf7c7a7d@dedf9",
+        "06988a62-3893-4967-8d04-c4abcf7c7a7d@7d6e0",
+        "06988a62-3893-4967-8d04-c4abcf7c7a7d@c332a",
+        "06988a62-3893-4967-8d04-c4abcf7c7a7d@cab28",
+        "06988a62-3893-4967-8d04-c4abcf7c7a7d@5e225",
+        "06988a62-3893-4967-8d04-c4abcf7c7a7d@861dc",
+        "06988a62-3893-4967-8d04-c4abcf7c7a7d@701ff",
+        "06988a62-3893-4967-8d04-c4abcf7c7a7d@27adb"
+      ],
+      "skeletons": [],
+      "textures": [
+        "06988a62-3893-4967-8d04-c4abcf7c7a7d@f8008"
+      ],
+      "materials": [
+        "06988a62-3893-4967-8d04-c4abcf7c7a7d@ef6ed"
+      ],
+      "scenes": [
+        "06988a62-3893-4967-8d04-c4abcf7c7a7d@bd9ab"
+      ]
+    }
+  }
+}

@@ -1,0 +1,399 @@
+{
+  "ver": "2.1.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "d569086b-70ba-43dc-a294-9aae0f506500",
+  "files": [],
+  "subMetas": {
+    "20300": {
+      "importer": "gltf-mesh",
+      "uuid": "d569086b-70ba-43dc-a294-9aae0f506500@20300",
+      "displayName": "",
+      "id": "20300",
+      "name": "rear_right_wheel.mesh",
+      "userData": {
+        "gltfIndex": 10
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "91249": {
+      "importer": "gltf-mesh",
+      "uuid": "d569086b-70ba-43dc-a294-9aae0f506500@91249",
+      "displayName": "",
+      "id": "91249",
+      "name": "front_right_wheel.mesh",
+      "userData": {
+        "gltfIndex": 12
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "93a4b": {
+      "importer": "gltf-mesh",
+      "uuid": "d569086b-70ba-43dc-a294-9aae0f506500@93a4b",
+      "displayName": "",
+      "id": "93a4b",
+      "name": "car_paint.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3a56c": {
+      "importer": "gltf-mesh",
+      "uuid": "d569086b-70ba-43dc-a294-9aae0f506500@3a56c",
+      "displayName": "",
+      "id": "3a56c",
+      "name": "reflectors.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f616f": {
+      "importer": "gltf-mesh",
+      "uuid": "d569086b-70ba-43dc-a294-9aae0f506500@f616f",
+      "displayName": "",
+      "id": "f616f",
+      "name": "BODY.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "62aac": {
+      "importer": "gltf-mesh",
+      "uuid": "d569086b-70ba-43dc-a294-9aae0f506500@62aac",
+      "displayName": "",
+      "id": "62aac",
+      "name": "mirrors.mesh",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5c538": {
+      "importer": "gltf-mesh",
+      "uuid": "d569086b-70ba-43dc-a294-9aae0f506500@5c538",
+      "displayName": "",
+      "id": "5c538",
+      "name": "bulbs.mesh",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "186ec": {
+      "importer": "gltf-mesh",
+      "uuid": "d569086b-70ba-43dc-a294-9aae0f506500@186ec",
+      "displayName": "",
+      "id": "186ec",
+      "name": "window_glass.mesh",
+      "userData": {
+        "gltfIndex": 5
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2fab2": {
+      "importer": "gltf-mesh",
+      "uuid": "d569086b-70ba-43dc-a294-9aae0f506500@2fab2",
+      "displayName": "",
+      "id": "2fab2",
+      "name": "front_left_wheel.mesh",
+      "userData": {
+        "gltfIndex": 6
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "306c5": {
+      "importer": "gltf-mesh",
+      "uuid": "d569086b-70ba-43dc-a294-9aae0f506500@306c5",
+      "displayName": "",
+      "id": "306c5",
+      "name": "rim001.mesh",
+      "userData": {
+        "gltfIndex": 7
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "be3d1": {
+      "importer": "gltf-mesh",
+      "uuid": "d569086b-70ba-43dc-a294-9aae0f506500@be3d1",
+      "displayName": "",
+      "id": "be3d1",
+      "name": "rear_left_wheel.mesh",
+      "userData": {
+        "gltfIndex": 8
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9627f": {
+      "importer": "gltf-mesh",
+      "uuid": "d569086b-70ba-43dc-a294-9aae0f506500@9627f",
+      "displayName": "",
+      "id": "9627f",
+      "name": "rim.mesh",
+      "userData": {
+        "gltfIndex": 9
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "76bcb": {
+      "importer": "gltf-mesh",
+      "uuid": "d569086b-70ba-43dc-a294-9aae0f506500@76bcb",
+      "displayName": "",
+      "id": "76bcb",
+      "name": "rim003.mesh",
+      "userData": {
+        "gltfIndex": 11
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7cb79": {
+      "importer": "gltf-mesh",
+      "uuid": "d569086b-70ba-43dc-a294-9aae0f506500@7cb79",
+      "displayName": "",
+      "id": "7cb79",
+      "name": "rim002.mesh",
+      "userData": {
+        "gltfIndex": 13
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "212f7": {
+      "importer": "gltf-mesh",
+      "uuid": "d569086b-70ba-43dc-a294-9aae0f506500@212f7",
+      "displayName": "",
+      "id": "212f7",
+      "name": "rear_lamp_glass.mesh",
+      "userData": {
+        "gltfIndex": 14
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9e704": {
+      "importer": "gltf-mesh",
+      "uuid": "d569086b-70ba-43dc-a294-9aae0f506500@9e704",
+      "displayName": "",
+      "id": "9e704",
+      "name": "front_lamp_glass.mesh",
+      "userData": {
+        "gltfIndex": 15
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "915b2": {
+      "importer": "gltf-embeded-image",
+      "uuid": "d569086b-70ba-43dc-a294-9aae0f506500@915b2",
+      "displayName": "",
+      "id": "915b2",
+      "name": "Map #5.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f3416": {
+      "importer": "texture",
+      "uuid": "d569086b-70ba-43dc-a294-9aae0f506500@f3416",
+      "displayName": "",
+      "id": "f3416",
+      "name": "Map #5.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Hatchback and Sedan/textures/HATCHBACK_1988.png"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "dd3d8": {
+      "importer": "gltf-material",
+      "uuid": "d569086b-70ba-43dc-a294-9aae0f506500@dd3d8",
+      "displayName": "",
+      "id": "dd3d8",
+      "name": "1988.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "87bee": {
+      "importer": "gltf-scene",
+      "uuid": "d569086b-70ba-43dc-a294-9aae0f506500@87bee",
+      "displayName": "",
+      "id": "87bee",
+      "name": "HATCHBACK_1988.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Map #5",
+        "remap": "db://assets/Hatchback and Sedan/textures/HATCHBACK_1988.png",
+        "uri": "d569086b-70ba-43dc-a294-9aae0f506500@915b2"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "d569086b-70ba-43dc-a294-9aae0f506500@87bee",
+    "assetFinder": {
+      "meshes": [
+        "d569086b-70ba-43dc-a294-9aae0f506500@93a4b",
+        "d569086b-70ba-43dc-a294-9aae0f506500@3a56c",
+        "d569086b-70ba-43dc-a294-9aae0f506500@f616f",
+        "d569086b-70ba-43dc-a294-9aae0f506500@62aac",
+        "d569086b-70ba-43dc-a294-9aae0f506500@5c538",
+        "d569086b-70ba-43dc-a294-9aae0f506500@186ec",
+        "d569086b-70ba-43dc-a294-9aae0f506500@2fab2",
+        "d569086b-70ba-43dc-a294-9aae0f506500@306c5",
+        "d569086b-70ba-43dc-a294-9aae0f506500@be3d1",
+        "d569086b-70ba-43dc-a294-9aae0f506500@9627f",
+        "d569086b-70ba-43dc-a294-9aae0f506500@20300",
+        "d569086b-70ba-43dc-a294-9aae0f506500@76bcb",
+        "d569086b-70ba-43dc-a294-9aae0f506500@91249",
+        "d569086b-70ba-43dc-a294-9aae0f506500@7cb79",
+        "d569086b-70ba-43dc-a294-9aae0f506500@212f7",
+        "d569086b-70ba-43dc-a294-9aae0f506500@9e704"
+      ],
+      "skeletons": [],
+      "textures": [
+        "d569086b-70ba-43dc-a294-9aae0f506500@f3416"
+      ],
+      "materials": [
+        "d569086b-70ba-43dc-a294-9aae0f506500@dd3d8"
+      ],
+      "scenes": [
+        "d569086b-70ba-43dc-a294-9aae0f506500@87bee"
+      ]
+    },
+    "dumpMaterials": false,
+    "materialDumpDir": "db://assets/Hatchback and Sedan/meshes/HATCHBACK/Materials_HATCHBACK_1988",
+    "depthWriteInAlphaModeBlend": false,
+    "meshOptimizer": false,
+    "useVertexColors": false
+  }
+}

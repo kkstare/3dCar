@@ -1,0 +1,58 @@
+{
+  "ver": "2.1.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "9a433812-a9d9-4780-83bd-8a3eb554cbd4",
+  "files": [],
+  "subMetas": {
+    "e0ca8": {
+      "importer": "gltf-mesh",
+      "uuid": "9a433812-a9d9-4780-83bd-8a3eb554cbd4@e0ca8",
+      "displayName": "",
+      "id": "e0ca8",
+      "name": "MESH_COLLIDER_SEDAN.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d11e5": {
+      "importer": "gltf-scene",
+      "uuid": "9a433812-a9d9-4780-83bd-8a3eb554cbd4@d11e5",
+      "displayName": "",
+      "id": "d11e5",
+      "name": "SEDAN_COLLIDER.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "9a433812-a9d9-4780-83bd-8a3eb554cbd4@d11e5",
+    "assetFinder": {
+      "meshes": [
+        "9a433812-a9d9-4780-83bd-8a3eb554cbd4@e0ca8"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "9a433812-a9d9-4780-83bd-8a3eb554cbd4@d11e5"
+      ]
+    }
+  }
+}

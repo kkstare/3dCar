@@ -1,0 +1,76 @@
+{
+  "ver": "2.1.4",
+  "importer": "fbx",
+  "imported": false,
+  "uuid": "5f35effe-a1a1-4c6a-8a36-5ad85ff66628",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "贴图 #2",
+        "uri": "5f35effe-a1a1-4c6a-8a36-5ad85ff66628@425ef"
+      }
+    ],
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 3.5833332538604736,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "idle",
+            "from": 0,
+            "to": 0.7333333333333333,
+            "wrapMode": 2
+          },
+          {
+            "name": "run",
+            "from": 0.8,
+            "to": 1.5,
+            "wrapMode": 2
+          },
+          {
+            "name": "attack",
+            "from": 1.6,
+            "to": 2.2,
+            "wrapMode": 2
+          },
+          {
+            "name": "win",
+            "from": 2.2666666666666666,
+            "to": 2.7666666666666666,
+            "wrapMode": 2
+          },
+          {
+            "name": "died",
+            "from": 2.8,
+            "to": 3.5833332538604736,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "5f35effe-a1a1-4c6a-8a36-5ad85ff66628@cba0f",
+    "assetFinder": {
+      "meshes": [
+        "5f35effe-a1a1-4c6a-8a36-5ad85ff66628@c6922"
+      ],
+      "skeletons": [
+        "5f35effe-a1a1-4c6a-8a36-5ad85ff66628@438fe"
+      ],
+      "textures": [
+        "5f35effe-a1a1-4c6a-8a36-5ad85ff66628@59f96"
+      ],
+      "materials": [
+        "5f35effe-a1a1-4c6a-8a36-5ad85ff66628@5c895"
+      ],
+      "scenes": [
+        "5f35effe-a1a1-4c6a-8a36-5ad85ff66628@cba0f"
+      ]
+    },
+    "dumpMaterials": false,
+    "legacyFbxImporter": true,
+    "materialDumpDir": "db://assets/resources/subPackage/model/altman/Materials_altman01"
+  }
+}

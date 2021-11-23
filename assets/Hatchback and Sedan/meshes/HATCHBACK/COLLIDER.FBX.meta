@@ -1,0 +1,59 @@
+{
+  "ver": "2.1.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "bfa3822c-a113-4c8f-add8-742d52e1db8a",
+  "files": [],
+  "subMetas": {
+    "b2800": {
+      "importer": "gltf-mesh",
+      "uuid": "bfa3822c-a113-4c8f-add8-742d52e1db8a@b2800",
+      "displayName": "",
+      "id": "b2800",
+      "name": "collider.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "490b0": {
+      "importer": "gltf-scene",
+      "uuid": "bfa3822c-a113-4c8f-add8-742d52e1db8a@490b0",
+      "displayName": "",
+      "id": "490b0",
+      "name": "COLLIDER.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "bfa3822c-a113-4c8f-add8-742d52e1db8a@490b0",
+    "assetFinder": {
+      "meshes": [
+        "bfa3822c-a113-4c8f-add8-742d52e1db8a@b2800"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "bfa3822c-a113-4c8f-add8-742d52e1db8a@490b0"
+      ]
+    },
+    "meshOptimizer": false
+  }
+}

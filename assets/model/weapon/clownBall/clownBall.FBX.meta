@@ -1,0 +1,33 @@
+{
+  "ver": "2.1.4",
+  "importer": "fbx",
+  "imported": false,
+  "uuid": "a1d41516-8186-4273-a5e8-d367e54b36a3",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "贴图 #4",
+        "uri": "a1d41516-8186-4273-a5e8-d367e54b36a3@181cb"
+      }
+    ],
+    "redirect": "a1d41516-8186-4273-a5e8-d367e54b36a3@ed0ff",
+    "assetFinder": {
+      "meshes": [
+        "a1d41516-8186-4273-a5e8-d367e54b36a3@97298"
+      ],
+      "skeletons": [],
+      "textures": [
+        "a1d41516-8186-4273-a5e8-d367e54b36a3@442db"
+      ],
+      "materials": [
+        "a1d41516-8186-4273-a5e8-d367e54b36a3@74c03"
+      ],
+      "scenes": [
+        "a1d41516-8186-4273-a5e8-d367e54b36a3@ed0ff"
+      ]
+    },
+    "legacyFbxImporter": true
+  }
+}

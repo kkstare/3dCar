@@ -1,0 +1,76 @@
+{
+  "ver": "2.1.4",
+  "importer": "fbx",
+  "imported": false,
+  "uuid": "f8c97c91-c3b1-4f51-a662-c91ba9e3abcd",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "贴图 #3",
+        "uri": "f8c97c91-c3b1-4f51-a662-c91ba9e3abcd@1cdc4"
+      }
+    ],
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 4.666666507720947,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "idle",
+            "from": 0,
+            "to": 0.7333333333333333,
+            "wrapMode": 2
+          },
+          {
+            "name": "run",
+            "from": 0.8,
+            "to": 1.5,
+            "wrapMode": 2
+          },
+          {
+            "name": "attack",
+            "from": 1.6,
+            "to": 2.2,
+            "wrapMode": 2
+          },
+          {
+            "name": "win",
+            "from": 2.2,
+            "to": 2.8,
+            "wrapMode": 2
+          },
+          {
+            "name": "died",
+            "from": 2.8,
+            "to": 4.666666507720947,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "f8c97c91-c3b1-4f51-a662-c91ba9e3abcd@f0343",
+    "assetFinder": {
+      "meshes": [
+        "f8c97c91-c3b1-4f51-a662-c91ba9e3abcd@55758"
+      ],
+      "skeletons": [
+        "f8c97c91-c3b1-4f51-a662-c91ba9e3abcd@438fe"
+      ],
+      "textures": [
+        "f8c97c91-c3b1-4f51-a662-c91ba9e3abcd@bfae8"
+      ],
+      "materials": [
+        "f8c97c91-c3b1-4f51-a662-c91ba9e3abcd@74c03"
+      ],
+      "scenes": [
+        "f8c97c91-c3b1-4f51-a662-c91ba9e3abcd@f0343"
+      ]
+    },
+    "dumpMaterials": false,
+    "legacyFbxImporter": true,
+    "materialDumpDir": "db://assets/resources/model/axe/Materials_axe01"
+  }
+}
