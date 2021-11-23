@@ -51,6 +51,7 @@ export class Rotate extends Component {
         this.angle = this.getAngle(this.target.getPosition(), this.node.getPosition());
         this.radius = this.getDistance(this.target.getPosition(), this.node.getPosition());
         // 开始
+        console.log(this.angle)
         this.isRotating = true;
     }
 

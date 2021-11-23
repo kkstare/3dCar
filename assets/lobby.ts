@@ -35,21 +35,21 @@ export class Lobby extends Component {
         })
 
 
-        type A={
-            name: "a",
-            age: number,
+        // type A={
+        //     name: "a",
+        //     age: number,
             
-        }
-        type B = {
-            name: "b",
-            gfNumber:number
-        }
-        type C = A | B
-        let test: C
-        test.name = "a"
-        if (test.name == "a") {
-            test.age = 1
-        }
+        // }
+        // type B = {
+        //     name: "b",
+        //     gfNumber:number
+        // }
+        // type C = A | B
+        // let test: C
+        // test.name = "a"
+        // if (test.name == "a") {
+        //     test.age = 1
+        // }
 
     }
 
