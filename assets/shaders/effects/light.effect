@@ -138,8 +138,8 @@ CCProgram unlit-fs %{
 
     #if USE_TEXTURE
       o *= texture(mainTexture, v_uv);
-      o *= 0.6+(sin(cc_time.x)*0.4);
-      o.a *= 2.0;
+      o.rbg *= 0.6+(sin(cc_time.x)*0.4);
+      // o.a *= .0;
     #endif
 
     #if USE_ALPHA_TEST

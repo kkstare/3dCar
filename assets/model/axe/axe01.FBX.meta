@@ -1,15 +1,239 @@
 {
   "ver": "2.1.4",
   "importer": "fbx",
-  "imported": false,
+  "imported": true,
   "uuid": "f8c97c91-c3b1-4f51-a662-c91ba9e3abcd",
-  "files": [],
-  "subMetas": {},
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "55758": {
+      "importer": "gltf-mesh",
+      "uuid": "f8c97c91-c3b1-4f51-a662-c91ba9e3abcd@55758",
+      "displayName": "",
+      "id": "55758",
+      "name": "axe01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1f586": {
+      "importer": "gltf-animation",
+      "uuid": "f8c97c91-c3b1-4f51-a662-c91ba9e3abcd@1f586",
+      "displayName": "",
+      "id": "1f586",
+      "name": "idle.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.7333333333333333
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "cf5ee": {
+      "importer": "gltf-animation",
+      "uuid": "f8c97c91-c3b1-4f51-a662-c91ba9e3abcd@cf5ee",
+      "displayName": "",
+      "id": "cf5ee",
+      "name": "run.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0.8,
+          "to": 1.5
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "989ed": {
+      "importer": "gltf-animation",
+      "uuid": "f8c97c91-c3b1-4f51-a662-c91ba9e3abcd@989ed",
+      "displayName": "",
+      "id": "989ed",
+      "name": "attack.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 1.6,
+          "to": 2.2
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "ee525": {
+      "importer": "gltf-animation",
+      "uuid": "f8c97c91-c3b1-4f51-a662-c91ba9e3abcd@ee525",
+      "displayName": "",
+      "id": "ee525",
+      "name": "win.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 2.2,
+          "to": 2.8
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "5b2e9": {
+      "importer": "gltf-animation",
+      "uuid": "f8c97c91-c3b1-4f51-a662-c91ba9e3abcd@5b2e9",
+      "displayName": "",
+      "id": "5b2e9",
+      "name": "died.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 2.8,
+          "to": 4.666666507720947
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "f8c97c91-c3b1-4f51-a662-c91ba9e3abcd@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 6
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "cad83": {
+      "importer": "gltf-embeded-image",
+      "uuid": "f8c97c91-c3b1-4f51-a662-c91ba9e3abcd@cad83",
+      "displayName": "",
+      "id": "cad83",
+      "name": "axe01.jpg.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".jpg",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bfae8": {
+      "importer": "texture",
+      "uuid": "f8c97c91-c3b1-4f51-a662-c91ba9e3abcd@bfae8",
+      "displayName": "",
+      "id": "bfae8",
+      "name": "贴图 #3.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "f8c97c91-c3b1-4f51-a662-c91ba9e3abcd@cad83"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "74c03": {
+      "importer": "gltf-material",
+      "uuid": "f8c97c91-c3b1-4f51-a662-c91ba9e3abcd@74c03",
+      "displayName": "",
+      "id": "74c03",
+      "name": "Material #4.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f0343": {
+      "importer": "gltf-scene",
+      "uuid": "f8c97c91-c3b1-4f51-a662-c91ba9e3abcd@f0343",
+      "displayName": "",
+      "id": "f0343",
+      "name": "axe01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
   "userData": {
     "imageMetas": [
       {
-        "name": "贴图 #3",
-        "uri": "f8c97c91-c3b1-4f51-a662-c91ba9e3abcd@1cdc4"
+        "name": "axe01.jpg",
+        "uri": "f8c97c91-c3b1-4f51-a662-c91ba9e3abcd@cad83"
       }
     ],
     "animationImportSettings": [
